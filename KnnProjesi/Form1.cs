@@ -102,7 +102,7 @@ namespace KnnProjesi
         private int CheckForBottom(int x, int y, int distance)
         {
             // random yada manuel oluşturulan piksellerin tutulduğu liste içerisinde hedeflenen doğru parçası üzerinde yer alan piksel listesi çekiliyor
-            var items = NoktaListesi.Where(item => item.XEkseni == x + distance && item.YEkseni > x - distance && item.YEkseni < x + distance);
+            var items = NoktaListesi.Where(item => item.XEkseni == x + distance && item.YEkseni > y - distance && item.YEkseni < y + distance);
 
             // listedeki piksel ve hedef pikseller arasındaki mesafeyi tutacak değişkene ilk değerinin setlenmesi
             double pointDistance = 0;
@@ -184,7 +184,7 @@ namespace KnnProjesi
         private int CheckForTop(int x, int y, int distance)
         {
             // random yada manuel oluşturulan piksellerin tutulduğu liste içerisinde hedeflenen doğru parçası üzerinde yer alan piksel listesi çekiliyor
-            var items = NoktaListesi.Where(item => item.XEkseni == x - distance && item.YEkseni > x - distance && item.YEkseni < x + distance);
+            var items = NoktaListesi.Where(item => item.XEkseni == x - distance && item.YEkseni > y - distance && item.YEkseni < y + distance);
 
             // listedeki piksel ve hedef pikseller arasındaki mesafeyi tutacak değişkene ilk değerinin setlenmesi
             double pointDistance = 0;

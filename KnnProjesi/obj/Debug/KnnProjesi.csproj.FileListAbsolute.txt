@@ -1,0 +1,8 @@
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\bin\Debug\KnnProjesi.exe
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\bin\Debug\KnnProjesi.pdb
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.Form1.resources
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.Properties.Resources.resources
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.csproj.GenerateResource.cache
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.csproj.CoreCompileInputs.cache
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.exe
+C:\Users\warni\Source\Repos\KnnProjesi\KnnProjesi\obj\Debug\KnnProjesi.pdb
